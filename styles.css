@@ -17,7 +17,8 @@ section {
 
 h1{
   color: #f05454;
-  font-weight: bold;
+  font-size: 2em;
+  font-weight: 600;
 }
 h2{
   text-align: center;
@@ -29,6 +30,17 @@ mark{
   background-color: #e8eae6;
   color: #707070;
 }
+ul{
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  text-align: center;
+}
+ul li{
+  display: inline;
+
+}
+
 .container{
   margin-left: auto;
   margin-right: auto;
@@ -41,6 +53,7 @@ mark{
 .header1{
   background-color: white;
   border-radius: 10px;
+  margin-bottom: 20px;
   text-align: center;
   padding: 20px;
 }
@@ -50,8 +63,12 @@ mark{
 .header2{
   background-color: white;
   border-radius: 10px;
+  height: 100px;
+  margin-bottom: 20px;
+  width: auto;
 }
 .movies{
+  clear: left;
   background-color: white;
   border-radius: 10px;
   padding: 20px;
