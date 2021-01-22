@@ -1,6 +1,6 @@
 # TimBernersLeeChallenge
 
-<img src="images/tim_berners_lee.jpg"
+<img src="tim_berners_lee.jpg"
      alt="Markdown Monster icon"
 
 ##Description
