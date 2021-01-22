@@ -7,6 +7,7 @@
 
 This is the first assessment of my Becode Journey.
 We were challenged to create a "pixel-perfect" website with a well-thought theme : Tim Berners-Lee, the inventor of HTML.
+This project hase been done using HTML and CSS on the 22th of January 2021.
 
 ## Where to find it
 
