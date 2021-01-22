@@ -8,8 +8,8 @@ This is the first assessment of my Becode Journey.
 We were challenged to create a "pixel-perfect" website with a well-thought theme : Tim Berners-Lee, the inventor of HTML.
 
 ## Where to find it
-Here is a link to the github-page where my version is published : 
 
+[Here is a link to the github-page where my version is published](https://guillaumelambermont.github.io/TimBernersLeeChallenge/)
 
 ## Who worked on the project
 I wrote it myself.
