@@ -1,7 +1,7 @@
 # TimBernersLeeChallenge
 
 <img src="tim_berners_lee.jpg"
-     alt="Markdown Monster icon"
+     alt="Tim Berners-Lee image">
 
 ##Description
 This is the first assessment of my Becode Journey.
